@@ -7,6 +7,10 @@ Elle inclut trois interfaces principales : **patient**, **docteur** et
 administrer les consultations.
 
 ------------------------------------------------------------------------
+![Nom de l'image](img/b3.jpg)
+![Nom de l'image](img/1.png)
+![Nom de l'image](img/2.png)
+![Nom de l'image](img/3.png)
 
 ## 🚀 Fonctionnalités principales
 
